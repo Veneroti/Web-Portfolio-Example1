@@ -1,5 +1,6 @@
 Pillow==5.0.0
 django==2.1.4
-django-ckeditor==3.7
+django-ckeditor==3.7.1
+
 
 
