@@ -1,0 +1,24 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Portada{% endblock %}
+
+{% block background %}{% load static %}{% static 'core/img/home-bg.jpeg' %}{% endblock %}
+
+{% block headers %}
+<h1>VeneroTI</h1>
+<span class="subheading">WEB 1</span>
+{% endblock %}
+
+{% block content %}
+<div class="row"> 
+    <div class="col-lg-8 col-md-10 mx-auto">
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut 
+        tincidunt eros. Mauris dui leo, vestibulum non sodales ut, convallis non nisl. Donec non ante sed enim posuere 
+        <br></br>
+        blandit tincidunt nec libero. Mauris quis ex ut odio mattis tristique id non erat. 
+        Vivamus massa sem, aliquet eget ex eu, dapibus suscipit nunc. Aenean dignissim leo in turpis faucibus posuere. 
+        </p>
+    </div>
+</div>
+{% endblock %}
