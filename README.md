@@ -19,7 +19,7 @@ Modelo web para usar como presentación de trabajos realizados (Portafolio Web),
 -	Portafolio: Curriculo de trabajos, insertándolos con una App integrada con Panel de Administración para agregar los proyectos.
 Requiriendo: Titulo, Descripción, Imagen, Dirección Web (Opcional).
 
--	Contacto: Formulario de Contacto, creada por una App integrada y configurada a una cuenta de Mailtrap, para visualizar el funcionamiento del envió del mensaje. (# Mailtrap Configuración en Settings.py)
+-	Contacto: Formulario de Contacto, creada por una App integrada y configurada a una cuenta de Mailtrap, para visualizar el funcionamiento del envió del mensaje. (# Registrarse en https://mailtrap.io/, copiar el código Integrations con Python->Django y pegar en settings.py al final.)
 
 Para probar la web, tener instalado Python y Django con las versiones ultimas.
 Comandos a seguir:
