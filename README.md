@@ -16,7 +16,6 @@ Modelo web para usar como presentación de trabajos realizados (Portafolio Web),
 
 -	Acerca de:  Biografía del Autor
 
-
 -	Portafolio: Curriculo de trabajos, insertándolos con una App integrada con Panel de Administración para agregar los proyectos.
 Requiriendo: Titulo, Descripción, Imagen, Dirección Web (Opcional).
 
@@ -38,8 +37,8 @@ http://veneroti.pythonanywhere.com/ (Con el servidor free de Pythonanywhere)
 Panel de Admin:
 http://veneroti.pythonanywhere.com/admin/
 
-Cuenta: Admin
-Contraseña: Admin
+Cuenta: admin
+Contraseña: admin
 
 
 Saludos
