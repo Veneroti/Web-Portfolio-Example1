@@ -30,3 +30,17 @@ Comandos a seguir:
 (Creando Super Usuario para iniciar seccion en el panal de Administracion “/admin/”)
  $python manage.py runserver
 (Iniciando servidor web e Ingresando a la web con la URL)
+
+Probar Web:
+
+http://veneroti.pythonanywhere.com/ (Con el servidor free de Pythonanywhere)
+
+Panel de Admin:
+http://veneroti.pythonanywhere.com/admin/
+
+Cuenta: Admin
+Contraseña: Admin
+
+
+Saludos
+
